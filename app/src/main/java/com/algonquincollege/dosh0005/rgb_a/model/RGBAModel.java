@@ -13,6 +13,7 @@ import java.util.Observable;
  *
  * @author dosh0005@algonquinlive.com on 2017-10-12.
  * @version 1.0
+ *
  */
 
 public class RGBAModel extends Observable {
